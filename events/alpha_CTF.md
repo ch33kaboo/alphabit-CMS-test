@@ -28,4 +28,4 @@ In addition to the workshops, the event had an online conference as well, entitl
 
 ----
 
-<strong>Note:</strong> Alpha_CTF might have other editions, so stay tuned on AlphaBit accounts on different social media platforms. Click <a href="#social">here</a> to see Alphabit's social media and online accounts.
+> **NOTE:** Alpha_CTF might have other editions, so stay tuned on AlphaBit accounts on different social media platforms for any updates.
