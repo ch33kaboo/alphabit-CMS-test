@@ -31,7 +31,7 @@ Here are the prizes presented to the winners in the last edition:
 ## Sponsorship
 
 * **Ministre Délégué Chargé de l'Economie de la Connaissance et des Startups**
-![Institut Français d_Oran](https://i.postimg.cc/gJsJLRg2/site-oran.png)
+![Algeria-ministry](https://upload.wikimedia.org/wikipedia/commons/d/df/Emblem_of_Algeria.svg)
 
 ----
 
