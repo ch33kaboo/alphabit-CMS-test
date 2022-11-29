@@ -19,7 +19,7 @@ or If you find something mentioned that is wrong or inaccurate, modify that in [
   * The first line of your file must be the URL of the thumbnail image, like this one: ![thumbnail_image](https://i.postimg.cc/W3vc6TGg/thumbnail.png)
   * Then the second line of your file, has to be this string: `$$img-end$$` , this tells the CMS that the image URL is over.
   * Now, on the third and upcoming lines of your file, will be the content of your article, it has to be markdown.
-  * > **Example:** For example, the words you're reading right now exist in a markdown file that was uploaded on the CMS repo, you can see its content from [here](https://github.com/ch33kaboo/CMS-test/blob/main/blog/Important%2C_please_read!).
+  * > **Example:** For example, the words you're reading right now exist in a markdown file that was uploaded on the CMS repo, you can see its content from [here](https://raw.githubusercontent.com/ch33kaboo/alphabit-CMS-test/main/events/Important%2C_please_read!.md).
 
 ### Recommendations:
 * If you want to write code in your markdown, please avoid using the common method which is using Backticks, since the file content might get sanitized and the content will not render properly on the web page, instead use the `HTML code tag` .
